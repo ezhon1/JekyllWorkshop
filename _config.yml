@@ -13,7 +13,7 @@ name                     : &name "Food"
 description              : &description "peepeepoopoo"
 url                      : https://ezhon1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/JekyllWorkshop" # the subpath of your site, e.g. "/blog"
-repository               : "ezhon1/JekyllWorkshop.github.io"
+repository               : "https://github.com/ezhon1/JekyllWorkshop"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
