@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Food / Site Title"
+title                    : "Emily Zhong / Basement Archivist"
 title_separator          : "-"
-name                     : &name "Food"
-description              : &description "peepeepoopoo"
+name                     : &name "Emily"
+description              : &description "kkdy"
 url                      : https://ezhon1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/JekyllWorkshop" # the subpath of your site, e.g. "/blog"
 repository               : "ezhon1/JekyllWorkshop"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Food"
   avatar           : "profile.png"
-  bio              : "kkdy"
-  location         : "Location"
+  bio              : "I like old stuff"
+  location         : "University of Toronto"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
